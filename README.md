@@ -1,6 +1,8 @@
 # MinImagen
 ### A Minimal implementation of the [Imagen](https://imagen.research.google/) text-to-image model.
 
+Modified by Simone Rebora
+
 <br/>
 
 <p align="center"><img src="./images/model_structure.png?raw=True" width="700"/></p>
